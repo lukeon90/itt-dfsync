@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ittSync</string>
+    <string name="app_content">lib</string>
+    <string name="app_provider">null</string>
+</resources>
